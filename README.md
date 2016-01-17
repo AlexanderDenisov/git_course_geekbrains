@@ -1,2 +1,5 @@
 # git_course_geekbrains
 http://geekbrains.ru/courses/66
+
+Бесплатный курс на GEEKBRAINS "Git.Быстрый старт"
+
